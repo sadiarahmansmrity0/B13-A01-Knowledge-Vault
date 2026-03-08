@@ -1,3 +1,9 @@
+.site-container {
+  max-width: 1600px;   /* or 1000px, depending on your design */
+  margin: 0 auto;      /* centers the whole site */
+  padding: 0 20px;     /* keeps spacing on mobile */
+}
+
 *{
   margin: 0;
   padding: 0;
